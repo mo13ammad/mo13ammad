@@ -11,7 +11,7 @@
 - 🔭 Currently working on **personal and open-source projects**
 - 🌱 Learning **AI and web development**
 - 💬 Let's talk about **open-source projects and innovative technologies**
-- 📫 Contact me at: **+98 933 097 6088**
+- 📫 Contact me at: **t.me/MmdSaadati
 
 ---
 
