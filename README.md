@@ -51,6 +51,4 @@
 </p>
 
 <br>
-<p align="center">
-<a href="https://viraup.com">Designed and Developed by Viraup</a>
-</p>
+
