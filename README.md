@@ -17,8 +17,11 @@
 🛠️ My Skills
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,linux,javascript,html,css,lua" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,linux,javascript,html,css,lua,cisco" />
 </a>
+</p>
+<p align="center">
+<strong>Networking & Hardware:</strong> MikroTik, Firewalls, LAN/WAN, Fiber Optics, Hardware Support
 </p>
 
 📊 My GitHub Stats
@@ -48,4 +51,6 @@
 </p>
 
 <br>
-
+<p align="center">
+<a href="https://viraup.com">Designed and Developed by Viraup</a>
+</p>
