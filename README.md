@@ -17,7 +17,7 @@
 🛠️ My Skills
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,linux,javascript,html,css,lua,cisco" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,linux,javascript,html,css,lua,cisco,python,react,nodejs,mariadb,postgresql" />
 </a>
 </p>
 <p align="center">
